@@ -4,6 +4,10 @@ This demo shows the differences between Stack and Fiber by rendering a Sierpinsk
 
 Used as a demo during the ReactJS Dublin Lightning Talks meetup of February 22nd 2017.
 
+# 演示
+[旧版](https://claudiopro.github.io/react-fiber-vs-stack-demo/stack.html)
+
+[新版](https://claudiopro.github.io/react-fiber-vs-stack-demo/fiber.html)
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
